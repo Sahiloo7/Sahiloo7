@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm S@HIL SUMR@</h1>
 <h3 align="center">A passionate frontend developer from India.</h3>
 
+
+
 <img alt="Coder" align="right" width="400" 
      src= "https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExZjRkYjEyNmYxZGMxNDljOTQ1YzFlZjI1YjU0Yzc3OGFjMDEyNmU5OSZjdD1n/qgQUggAC3Pfv687qPC/giphy.gif">
 
