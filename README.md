@@ -14,7 +14,7 @@
 
 - 🌱 I’m currently learning  **python,java,React js.**
 
-- 💬 Ask me about **HTML,CSS,JavaScript,c.**
+- 💬 Ask me about **HTML, CSS, JavaScript, c.**
 
 - 📫 How to reach me **sahilsumra5581@gmail.com**
 
