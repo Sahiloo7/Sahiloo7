@@ -44,13 +44,13 @@
   <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
 
 </p>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sahiloo7&" alt="sahiloo7" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sahil-sumra&" alt="sahil-sumra" /></p>
 
 
 
 
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sahiloo7&show_icons=true&locale=en" alt="sahiloo7" /> </p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sahil-sumra&show_icons=true&locale=en" alt="sahil-sumra" /> </p>
 
 
 
